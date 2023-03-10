@@ -4,7 +4,7 @@
 
 | Ime in priimek | Vpisna številka |
 | -------------- | --------------- |
-| Špela Čoha |  |
+| Špela Čoha | 04200493 |
 | Gal Fajon | 63210064 |
 | Manca Lapanje | 04200495 |
 | Tia Šarkezi | 63220525 |
