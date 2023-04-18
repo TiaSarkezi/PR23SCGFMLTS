@@ -46,6 +46,6 @@ Podatki o nesrečah za vsako leto so zapisani v ločenih .csv datotekah.
 
 
 ### Korelacija med tipom poškodbe in uporabo varnostnega pasu
-![Unknown-12](https://user-images.githubusercontent.com/104381957/232863888-05f4891e-467e-4103-ad14-3ede4a48fcbf.png)
+<img width="175" alt="Screenshot 2023-04-18 at 20 02 51" src="https://user-images.githubusercontent.com/104381957/232865078-b4a54631-6c86-4300-b6df-8b51e15bd290.png">
 
 
