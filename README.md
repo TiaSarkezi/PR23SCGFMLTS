@@ -28,25 +28,23 @@ Podatki o nesrečah za vsako leto so zapisani v ločenih .csv datotekah.
 ## Rezultati
 
 ### Delež prometnih nesreč po letih
-![Unknown](https://user-images.githubusercontent.com/104381957/232847584-36a8fcd3-568c-4a8c-aa93-fee16856f108.png)
+![nesrecepoletih](https://user-images.githubusercontent.com/104381957/232863052-f6a00135-ee40-4993-8520-dc75323c9a94.jpg)
+
 
 ### Starost povzročiteljev nesreč
-![Unknown-2](https://user-images.githubusercontent.com/104381957/232847798-d96ffaab-f935-40ea-b726-05f20969fce7.png)
-![Unknown-3](https://user-images.githubusercontent.com/104381957/232847834-3cf84bb5-29dc-4c7a-a66d-f4e2833d90fd.png)
-![Unknown-4](https://user-images.githubusercontent.com/104381957/232847848-d056c3ff-556c-4929-a4fa-c3639557026c.png)
+![povzrocitelji-vozniki](https://user-images.githubusercontent.com/104381957/232863114-bbccc225-3c30-49fe-8909-9070b79881bd.jpg)
+![povzrocitelji-kolesarji](https://user-images.githubusercontent.com/104381957/232863105-d55ad431-9f48-44b0-8e0e-b5ffa3c3ee42.jpg)
+![povzrocitelji-pesci](https://user-images.githubusercontent.com/104381957/232863112-164e015b-0fdc-48b9-a3e2-4461074b9a93.jpg)
 
 
 ### Povprečna starost voznika, ki povzroči nesrečo po letih
-![Unknown-5](https://user-images.githubusercontent.com/104381957/232847875-f5c81a09-2ad3-4f2c-a79b-b74c92c3c0d2.png)
+![starostpovzrocitelja](https://user-images.githubusercontent.com/104381957/232863154-70e19ddb-0fd5-418c-8282-e90cf4b18d36.jpg)
 
 
 ### Spol povzročiteljev nesreč
-![Unknown-6](https://user-images.githubusercontent.com/104381957/232847909-3120de2f-93c8-4344-afb5-4b307c5056e4.png)
+![spolpovzrociteljev](https://user-images.githubusercontent.com/104381957/232863162-ee0722d1-4c9b-4f9f-aa59-2a285e9b42f7.jpg)
+
 
 ### Korelacija med tipom poškodbe in uporabo varnostnega pasu
-![Unknown-7](https://user-images.githubusercontent.com/104381957/232848024-f1862182-cbcf-4a24-9006-21b8a404a96e.png)
-![Unknown-8](https://user-images.githubusercontent.com/104381957/232848029-0463960c-cf2f-4d6f-b2b8-05466a9a5d43.png)
-![Unknown-9](https://user-images.githubusercontent.com/104381957/232848047-e841ed1e-e33e-44d0-aba6-662b8359dbdb.png)
-![Unknown-10](https://user-images.githubusercontent.com/104381957/232848071-ed931553-977b-4286-9018-e25a276eb4dd.png)
-![Unknown-11](https://user-images.githubusercontent.com/104381957/232848091-a61cf8e2-5331-4b2a-8f5c-7388cfcad06b.png)
+<img width="1069" alt="poskodbe" src="https://user-images.githubusercontent.com/104381957/232863255-672bf854-c247-4f03-b73c-590f3a3dea81.png">
 
