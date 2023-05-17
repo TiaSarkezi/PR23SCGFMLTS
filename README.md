@@ -13,12 +13,12 @@
 
 V naši nalogi želimo analizirati podatke o prometnih nesrečah v Sloveniji od leta 2009 do 2022. Naš cilj je ugotoviti:
 
-- delež prometnih nesreč po letih,
+- število prometnih nesreč po letih,
 - kdo so največkrat povzročitelji nesreč,
 - stopnjo korelacije med povzročitvijo nesreče in vozniškim stažem,
-- kako pogoste so različne stopnje poškodb,
+- kako pogosti so različni izidi prometnih nesreč,
 - stopnjo korelacije med tipi poškodb in uporabo varnostnega pasu,
-- v kakšnem vremenu, ob katerem delu dneva, v katerih mestih in na katerih cestah so prometne nesreče najpogostejše.
+- v kakšnem vremenu, ob katerih dneh in katerem delu dneva so prometne nesreče najpogostejše.
 
 ## Opis podatkov
 
@@ -59,11 +59,11 @@ Na zgornjem grafu vidimo da je delež moških, ki povzročijo prometno nesrečo 
 
 
 ### Korelacija med tipom poškodbe in uporabo varnostnega pasu
-<img width="200" height=auto alt="Screenshot 2023-04-18 at 20 02 51" src="https://user-images.githubusercontent.com/104381957/232865078-b4a54631-6c86-4300-b6df-8b51e15bd290.png">
+![varnostnipas](https://github.com/TiaSarkezi/PR23SCGFMLTS/assets/104381957/5498164c-2f5e-4450-9149-2f2665cacb9a)
 
 Iz zgornje statistike je razvidno da je delež ljudi, ki so umrli in med vožnjo niso imeli zapetega varnostnega pasu večja kot pri vseh ostalih. Hkrati je delež voznikov ki v nesreči niso utrpeli poškodbe in niso imeli zapetega pasu opazno manjši od deleža zapetih voznikov. Pri ustvarjanju takih ocen je potrebno tudi upoštevati katere vrste nesreč vodijo do kakšnih izidov.
 
 
 
 ### Toplotni zemljevid
-<img width="565" alt="Screenshot 2023-04-18 at 20 05 34" src="https://user-images.githubusercontent.com/104381957/232865226-3c0f556e-83b9-4fd1-954d-468224a6230f.png">
+https://nbviewer.org/github/TiaSarkezi/PR23SCGFMLTS/blob/main/zemljevid.ipynb
